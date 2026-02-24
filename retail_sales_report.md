@@ -63,11 +63,11 @@ This report analyzes consumer spending patterns across Beauty, Clothing, and Ele
 ## 5. Visualizations
 
 ### Spending by Gender and Category
-## 5. Visualizations
-![Consumer Spending by Gender and Category](https://copilot.microsoft.com/th/id/BCO.9381988b-3654-442f-8d84-430eb86e3502.png)
+![Consumer Spending Chart](consumer_spending_chart.png)
 
 
 ---
 
 ## 6. Conclusion
 Consumer spending is fairly balanced across categories, with gender-based preferences influencing category leadership. Businesses can leverage these insights to tailor marketing strategies, optimize product offerings, and enhance customer engagement.
+
